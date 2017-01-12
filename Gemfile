@@ -30,7 +30,7 @@ group :test do
   # gem 'growl', '1.0.3'
 
   # Uncomment these lines on Linux.
-  # gem 'libnotify', '0.8.0'
+   gem 'libnotify', '0.8.0'
 
   # Uncomment these lines on Windows.
   # gem 'rb-notifu', '0.0.4'
@@ -38,7 +38,7 @@ group :test do
   # gem 'wdm', '0.1.0'
 end
 
-gem 'sass-rails', '4.0.1'
+gem 'sass-rails', '4.0.3'
 gem 'uglifier', '2.1.1'
 gem 'coffee-rails', '4.0.1'
 gem 'jquery-rails', '3.0.4'
